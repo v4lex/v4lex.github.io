@@ -1,2 +1,4 @@
 # v4lex.github.io
-pages
+GitHub pages site
+
+Visit the site [here](https://v4lex.github.io)
